@@ -32,6 +32,14 @@ InvenSync is a lightweight inventory management desktop application built using 
 
 ## UI Overview
 
+<p align="left">
+<img src ="https://github.com/Aniket-16-S/Inventory-Management-App/blob/08a64ca391d24533edca18a81f262af1bb6b2098/OUTPUT/Output-2.png?raw=true" width="45%" />
+&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/Aniket-16-S/Inventory-Management-App/blob/08a64ca391d24533edca18a81f262af1bb6b2098/OUTPUT/Output-1.png" width="45%" / >
+</p>
+
+
+
 The app includes the following UI structure:
 
 - **Login Page:** Simple login form with two pre-configured operator accounts
@@ -41,12 +49,18 @@ The app includes the following UI structure:
   - *Product Master*
 
 ---
-## Clone / Contribute
+## Run the App
+[click here](https://github.com/Aniket-16-S/Inventory-Management-App/blob/08a64ca391d24533edca18a81f262af1bb6b2098/InfoVentry.exe) to download
+the exe file directly. 
+
+
+
+## Clone / Contribute 
 
 ### 1. Clone the Repository
 
 ```bash
-git clone (not published yet)
+git clone https://github.com/Aniket-16-S/Inventory-Management-App.git
 ```
 ```bash
 cd inventory-management-app
